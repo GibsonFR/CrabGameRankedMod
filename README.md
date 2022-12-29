@@ -1,5 +1,6 @@
 # CrabGameRankedMod
 
+Since the mod is build on Danilo Mod you have to do thoses exact steps : 
 Place Server file at this exact path : C:\Program Files (x86)\Steam\steamapps\common\Crab Game
 
 The game gonna crash if you don't have all the files on Server folder.
